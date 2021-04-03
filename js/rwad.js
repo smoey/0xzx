@@ -1,1 +1,1 @@
-document.writeln("<a href=\'https://token.0xzx.com/\' rel=\'noreferrer nofollow external noopener\'><img class=\'alignnone size-full\' src=\'https://cdn.jsdelivr.net/gh/smoey/0xzx@main/img/swap0xzx.jpg\' alt=\'Defirex\' width=\'300\' height=\'250\' /></a>");
+document.writeln("<a href=\'https://token.0xzx.com/#buy-token\' rel=\'noreferrer nofollow external noopener\'><img class=\'alignnone size-full\' src=\'https://cdn.jsdelivr.net/gh/smoey/0xzx@main/img/swap0xzx.jpg\' alt=\'Defirex\' width=\'300\' height=\'250\' /></a>");
