@@ -1,7 +1,5 @@
 <script>
-info="<!DOCTYPE html>
-<html>
-    <head>
+info="
     	<style>
 .buybtc {
     border: 1px solid #c6fbe7;
@@ -54,15 +52,13 @@ a {
     text-decoration: none!important;
 }
     	</style>
-    </head>
-	<body>
+
 <div class=&#34;swapad&#34;>
 <img src=&#34;https://0xzx.com/img/cake.png&#34; style=&#34;height: 50px;float: left;line-height: 50px;&#34;><a href=&#34;https://token.0xzx.com/#buy-token&#34; rel=&#34;nofollow external noopener noreferrer&#34; target=&#34;_blank&#34; ><span class=&#34;buybtc swap&#34;>SWAP 0XZX TOKEN</span></a>
 <div class=&#34;contract&#34;><span class=&#34;contract-title&#34;>BSC:</span><a href=&#34;https://bscscan.com/token/0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b&#34; rel=&#34;nofollow external noopener noreferrer&#34; target=&#34;_blank&#34;>0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b</a></div>
 <span class=&#34;social&#34;><a href=&#34;https://t.me/chat0x&#34; rel=&#34;nofollow external noopener noreferrer&#34; target=&#34;_blank&#34;>TELEGRAM: @chat0x</a></span> ~ <span class=&#34;social&#34;><a href=&#34;https://twitter.com/0xzxcom&#34; rel=&#34;nofollow external noopener noreferrer&#34; target=&#34;_blank&#34;>TWITTER: @0xzxcom</a></span>
 </div>
-	</body>
-</html>"
+"
 
 document.write(info)
 </script>
