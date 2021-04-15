@@ -53,7 +53,7 @@ document.write("<\/style>");
 document.write("");
 document.write("<div class=\"swapad\">");
 document.write("<img src=\"https:\/\/0xzx.com\/img\/cake.png\" style=\"height: 50px;float: left;line-height: 50px;\"><a href=\"https:\/\/token.0xzx.com\/#buy-token\" rel=\"nofollow external noopener noreferrer\" target=\"_blank\" ><span class=\"buybtc swap\">SWAP 0XZX TOKEN<\/span><\/a>");
-document.write("<div class=\"contract\"><span class=\"contract-title\">BSC:<\/span><a href=\"https:\/\/bscscan.com\/token\/0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b\" rel=\"nofollow external noopener noreferrer\" target=\"_blank\">0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b<\/a><\/div>");
+document.write("<div class=\"contract\"><a href=\"https:\/\/bscscan.com\/token\/0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b\" rel=\"nofollow external noopener noreferrer\" target=\"_blank\">0x1fbb6ca220dcbe732f796fa9b13dd21cd654511b<\/a><\/div>");
 document.write("<span class=\"social\"><a href=\"https:\/\/t.me\/chat0x\" rel=\"nofollow external noopener noreferrer\" target=\"_blank\">TELEGRAM: @chat0x<\/a><\/span> ~ <span class=\"social\"><a href=\"https:\/\/twitter.com\/0xzxcom\" rel=\"nofollow external noopener noreferrer\" target=\"_blank\">TWITTER: @0xzxcom<\/a><\/span>");
 document.write("<\/div>");
 document.write("");
