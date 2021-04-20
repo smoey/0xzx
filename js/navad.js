@@ -1,0 +1,1 @@
+document.writeln("<a href=\'https://refpazkjixes.top//L?tag=d_942067m_1732c_bt&site=942067&ad=1732\' class=\'1xbit\' rel=\'noreferrer nofollow external noopener\' target=\'_blank\'><img src=\'https://cdn.jsdelivr.net/gh/0xzxcom/0xzx@main/img/1xbit.gif\'></a>");
